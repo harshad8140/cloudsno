@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CirrOps - Enabling Enterprise Agility with DevOps",
-  description: "Cloud DevOps and Consulting Services",
+  title: "Cloudsno - Your shield in the cloud, Your partner in Success",
+  description: "Cloudsno DevOps and Consulting Services",
 };
 
 export default function RootLayout({
