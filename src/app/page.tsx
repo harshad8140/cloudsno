@@ -274,7 +274,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold text-center mb-12">Our DevOps Solutions</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {devopsFeatures.map((feature, index) => (
-              <Card key={index} className="hover:shadow-xl transition-shadow border-t-4 border-t-blue-500">
+              <Card key={index} className="hover:bg-blue-50 hover:shadow-xl transition-all border-t-4 border-t-blue-500">
                 <CardContent className="p-6">
                   <div className="flex items-center gap-4 mb-4">
                     <div className="p-3 bg-blue-50 rounded-lg">
