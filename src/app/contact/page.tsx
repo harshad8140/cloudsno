@@ -19,7 +19,7 @@ const Contact = () => {
             </section>
 
             {/* Contact Form Section */}
-            <section className="py-16">
+            <section className="px-16 py-16">
                 <div className="container mx-auto px-4">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
                         <div>

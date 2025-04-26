@@ -130,7 +130,7 @@ export default function ServicesPage() {
             </section>
 
             {/* Services Section */}
-            <section className="py-20 bg-gradient-to-b from-gray-50 to-white">
+            <section className="py-20 px-16 bg-gradient-to-b from-gray-50 to-white">
                 <div className="container mx-auto px-4">
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
                         {detailedServices.map((service, index) => (
@@ -169,7 +169,7 @@ export default function ServicesPage() {
             </section>
 
             {/* Benefits Section */}
-            <section className="py-20 bg-gradient-to-br from-blue-50 to-purple-50">
+            <section className="px-16 py-20 bg-gradient-to-br from-blue-50 to-purple-50">
                 <div className="container mx-auto px-4">
                     <div className="text-center mb-16">
                         <h2 className="text-3xl font-bold mb-4">Why Choose Our DevOps Services?</h2>
