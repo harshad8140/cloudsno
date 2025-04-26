@@ -10,7 +10,6 @@ import {
     Users,
     ArrowRight,
 } from "lucide-react";
-import Image from "next/image";
 
 const detailedServices = [
     {
@@ -203,7 +202,7 @@ export default function ServicesPage() {
                         Ready to Transform Your DevOps Journey?
                     </h2>
                     <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-                        Let's discuss how our DevOps services can help accelerate your business growth
+                        Let&apos;s discuss how our DevOps services can help accelerate your business growth
                     </p>
                     <div className="flex flex-col sm:flex-row justify-center gap-4">
                         <Button size="lg" variant="secondary" className="bg-white text-blue-600" asChild>

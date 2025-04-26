@@ -28,8 +28,7 @@ const About = () => {
                     <div className="max-w-3xl mx-auto text-center">
                         <h1 className="text-4xl font-bold mb-6">About Cludsno</h1>
                         <p className="text-xl text-gray-600 mb-8">
-                            We're on a mission to revolutionize server management and DevOps practices
-                            for businesses worldwide.
+                            We&apos;re on a mission to revolutionize server management and DevOps practices for businesses worldwide.
                         </p>
                     </div>
                 </div>
